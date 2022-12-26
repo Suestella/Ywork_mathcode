@@ -1,0 +1,3 @@
+# Ywork_mathcode
+This time, it was a day to help my girlfriend with her homework, and this semester's Python course was like it was for me
+In fact, this semester of study, the gain for me is huge, whether it is from the very beginning of the understanding of print, or later writing independent functions, the use of various library functions, the most important thing is proficiency, as long as you knock more code, there will be gains, will gradually form their own logic, design, which is very important, from the hierarchical design and some object-oriented programming thinking, logic is essential
